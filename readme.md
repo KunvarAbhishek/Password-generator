@@ -1,6 +1,6 @@
 # Password Generator
 
-This project is a customizable Password Generator application built with HTML, CSS, and JavaScript. It allows users to generate strong, random passwords with various customization options, including password length, the inclusion of uppercase letters, lowercase letters, symbols, and digits. The application also features password strength feedback and a light/dark theme switcher.
+This project is a customizable Password Generator application. It allows users to generate strong, random passwords with various customization options, including password length, the inclusion of uppercase letters, lowercase letters, symbols, and digits. The application also features password strength feedback and a light/dark theme switcher.
 
 ## Table of Contents
 
