@@ -21,7 +21,7 @@ This project is a customizable Password Generator application. It allows users t
 - Real-time password strength feedback.
 - Toggle between light and dark themes.
 - Password copy-to-clipboard functionality.
-- Typewriter effect in the footer.
+
 
 ## Live Demo
 
